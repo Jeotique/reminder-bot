@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "devland.js": "^1.2.26",
+    "devland.js-commands": "^1.0.9",
+    "ms": "^2.1.3",
+    "mxtorie-db": "^1.0.5"
+  }
+}
